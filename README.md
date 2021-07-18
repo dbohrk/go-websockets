@@ -1,3 +1,3 @@
 # go-websockets
 
-Simple "Chat" applicatoion using GoLang Websockets package
+Simple "Chat" application using GoLang Websockets package
